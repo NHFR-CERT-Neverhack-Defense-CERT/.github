@@ -6,7 +6,7 @@ The purpose of this organization is to share our internally developed tools with
 ---
 
 ## A few words about NHFR-IR  
-The **Neverhack Defense Computer Emergency Response Team (NHFR-IR)** is a security team dedicated to strengthening prevention, detection, and protection against cyber threats.
+The **Neverhack Defense Incident Response Team (NHFR-IR)** is a security team dedicated to strengthening prevention, detection, and protection against cyber threats.
 
 We support organizations during security incidents, conduct in-depth investigations, and provide actionable intelligence to anticipate and reduce cyber risks.
 
