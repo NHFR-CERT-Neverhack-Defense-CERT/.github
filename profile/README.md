@@ -36,4 +36,4 @@ Future accreditations are part of our roadmap as the team expands and formalizes
 
 ## Contact NHFR-CERT  
 To report a security incident or request assistance:  
-👉 **cert@neverhackdefense.com**
+👉 **ir@neverhack.com**
