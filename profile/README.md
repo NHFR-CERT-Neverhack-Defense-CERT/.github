@@ -10,8 +10,6 @@ The **Neverhack Defense Incident Response Team (NHFR-IR)** is a security team de
 
 We support organizations during security incidents, conduct in-depth investigations, and provide actionable intelligence to anticipate and reduce cyber risks.
 
-NHFR-IR operates following the principles of **RFC 2350**, which define the expected practices and responsibilities of a Computer Security Incident Response Team.
-
 ---
 
 ## Our areas of expertise  
