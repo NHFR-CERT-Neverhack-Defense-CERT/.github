@@ -19,7 +19,6 @@ NHFR-IR is composed of specialists in:
 - **Digital Forensics & Incident Response (DFIR)**
 - **Vulnerability & Exposure Management (VOC)**
 - **Cyber defense & operational security**
-- **Malware analysis & reverse engineering**
 - **Network investigations & intrusion analysis**
 
 Our mission is to detect, analyze, respond to, and help prevent cyber threats targeting our clients and partners.
